@@ -1,12 +1,12 @@
 # README #
 ## AngularJS Tutorial
 
-### What is this repository for? ###  
+### What is this repository for?
+
+- UP TO AngularJS Todo Tutorial
 
 
-
-
-
+---
 First Install npm server   
 `npm install`  
 Start Server use server.js  
