@@ -3,7 +3,9 @@
 
 ### What is this repository for? ###  
 
-Pratice AngularJS
+
+
+
 
 First Install npm server   
 `npm install`  
@@ -12,5 +14,5 @@ Start Server use server.js
 
 `MyProject Server is Listening on port 8888`
 
-
->blog [Link](https://idkblogs.com/angular/11/Serve-angularJs-application-by-Node-server. "blog")
+> AngularJS Stie [Link](https://angularjs.org/)
+* blog [Link](https://idkblogs.com/angular/11/Serve-angularJs-application-by-Node-server. "blog")
